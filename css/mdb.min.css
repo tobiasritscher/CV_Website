@@ -1143,6 +1143,10 @@ progress {
         width: 50%
     }
 
+    .center-image {
+        content-align: center
+    }
+
     .col-md-7 {
         width: 58.3333333333%
     }
